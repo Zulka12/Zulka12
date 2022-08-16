@@ -1,0 +1,8 @@
+- 👋 Pozdrav. Ja sam Zulka Musić iz Bugojna i imam 21 godinu. Student sam druge godine softverskog inžinjeringa na Fakultetu informacijskih tehnologija u Mostaru.
+- 👀 Zainteresovana sam web dizajn, grafički dizajn i UI/UX dizajn.
+- 🌱 Trenutno učim C++, C#, JS, CSS, HTML i SQL.
+- 💞️ Voljela bih da radim na projektim vezanim za dizajn.
+- 📫 Možete me pronaći na društvenim mrežama:
+- Instagram: https://www.instagram.com/zulkamusic/
+- Facebook: https://www.facebook.com/zulkamusic1
+- E-mail: zulkamusic12@gmail.com
