@@ -1,5 +1,5 @@
 - 👋 Pozdrav. Ja sam Zulka Musić iz Bugojna i imam 23 godinu. Student sam treće godine informacionih tehnologija na Sveučilištu "Vitez" u Travniku na Fakultetu informacionih tehnologija.
-- 👀 Zainteresovana sam web dizajn, grafički dizajn i UI/UX dizajn.
+- 👀 Zainteresovana sam za web dizajn, grafički dizajn i UI/UX dizajn.
 - 🌱 Trenutno učim C++, C#, JS, CSS, HTML i SQL.
 - 💞️ Voljela bih da radim na projektim vezanim za dizajn.
 - 📫 Možete me pronaći na društvenim mrežama:
