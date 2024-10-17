@@ -1,4 +1,4 @@
-- 👋 Pozdrav. Ja sam Zulka Musić iz Bugojna i imam 21 godinu. Student sam druge godine softverskog inžinjeringa na Fakultetu informacijskih tehnologija u Mostaru.
+- 👋 Pozdrav. Ja sam Zulka Musić iz Bugojna i imam 23 godinu. Student sam treće godine informacionih tehnologija na Sveučilištu "Vitez" u Travniku na Fakultetu informacionih tehnologija.
 - 👀 Zainteresovana sam web dizajn, grafički dizajn i UI/UX dizajn.
 - 🌱 Trenutno učim C++, C#, JS, CSS, HTML i SQL.
 - 💞️ Voljela bih da radim na projektim vezanim za dizajn.
